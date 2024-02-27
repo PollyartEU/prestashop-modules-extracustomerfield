@@ -17,16 +17,6 @@ Add {hook h='displayMyExtraValue' id_customer=$customer->id} to show extra value
 - Download or clone module into modules directory of your PrestaShop installation
 - Install module from Back Office
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/frederic-benoist/fbsample-extracustomerfield/tags). 
-
-## Authors
-
-* **Frédéric BENOIST** - *Initial work* - [Expert PrestaShop](https://www.fbenoist.com)
-
-See also the list of [contributors](https://github.com/frederic-benoist/fbsample-extracustomerfield/Contributors) who participated in this project.
-
 ## Licensing
 
 This source file is subject to the Academic Free License (AFL 3.0)
